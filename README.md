@@ -1,7 +1,5 @@
 # Visiting Ahmedabad
 
-The project provides an overview 'project' visiting ahmedabad
-
-![image](VisitingAhmedabad.jpg)
+![image](VisitingAhmedabad.JPG)
 
 https://github.com/alpaddesai/LifeStyle
